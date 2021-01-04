@@ -8,4 +8,4 @@ A simple site  using  webdesign that involves all the web design principle colou
 
 **With Parallax effect**
 <br/>
-**visit :**[ live demo](canva.com/design/DAESQZ_QXSQ/FCRX2KmBuQjMFP-qx3sz7Q/view?website#2:a-hotel)
+**visit :**[ live demo](https://www.canva.com/design/DAESQZ_QXSQ/FCRX2KmBuQjMFP-qx3sz7Q/view?website#2)
