@@ -1,6 +1,6 @@
 # Web-Design
 
-A simple site  using  webdesign that involves all the web design principle colour Theory, Typography, user interface (UI) design, user experience (UX) design
+A simple wireframe  using  webdesign that involves all the web design principle colour Theory, Typography, user interface (UI) design, user experience (UX) design
 
 **Without Parallax effect**
 <br/>
